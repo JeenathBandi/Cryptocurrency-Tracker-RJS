@@ -1,0 +1,26 @@
+/* Write your CSS code here */
+.item-row-container {
+  display: flex;
+  margin: 10px;
+}
+.currency-logos {
+  height: 5vh;
+  width: 3vw;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+.currency-name {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin-top: 5px;
+}
+.row-container-logo {
+  display: flex;
+  flex-grow: 1;
+}
+.usd-value {
+  color: #ffffff;
+  font-family: 'Roboto';
+  margin: 0px;
+  padding-right: 20px;
+}
